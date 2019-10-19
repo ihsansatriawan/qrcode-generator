@@ -1,0 +1,16 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ihsansatriawan <ihsan.satriawan.20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "qr-image": "^3.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
